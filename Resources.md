@@ -10,5 +10,8 @@ https://explorer.xinfin.network/tokens/xdc4826634fe187ed3ffb64d77c5c1a67ba49cc03
 # Admin DAO Account
 0xa091fB83C60E75144b2287ab2FA4b01A05364052
 
+# Tresuary
+Xdc89d086ff4765bf7b1b03818bda748aa1a65d93b8
+
 # ENS Domain
 BlocksWorkz.xyz
