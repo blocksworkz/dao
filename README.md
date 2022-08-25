@@ -1,5 +1,5 @@
-# dao
-BlocksWorkz DAO (Decentralized autonomous organization)
+# BlocksWorkz.xyz
+## BlocksWorkz DAO (Decentralized autonomous organization)
 
 BlocksWorkz is a decentralized, community managed organisation. BlocksWorkz is a member-owned community without centralized leadership, the direction of the organisation is managed by the community.
 
