@@ -49,6 +49,10 @@ The BLKZ tokens held by the team have now all been transferred to a new wallet w
 
 Any commissions received by the XDCNFT and XDCSwaps products will be sent to this treasury wallet on a monthly basis. The community can then decide on how they wish to distribute the tokens.
 
+### Why is the BLKZ token used for voting and why wasn't a new token created?
+Creating another new token requires time, effort and introduces opportunities for error. By using the existing token makes it accessible for existing token holders to contribute.
+
+
 ### What happens with the existing hosting and domains?
 The original team will continue to manage/host the products for a transitional period of 6 weeks* after which the hosting will be ownership of the domains will be transferred to the community. 
 
@@ -57,7 +61,7 @@ The authors will create proposals where deemed appropriate for decisions by the 
 ### What happens with existing wallets/private keys?
 Access to any wallets used in the products and their associated private keys will be transitioned to the authors.
 
+____
 
 
-
-* Transitional period of 6 weeks will start from the date outlined - TBC.
+ *Transitional period of 6 weeks will start from the date outlined - TBC.
