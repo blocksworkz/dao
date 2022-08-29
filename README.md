@@ -46,7 +46,20 @@ The concept of a DAO encourages people from all over the world to seamlessly com
 
 During the transition to the community a number of basic governance structures must be established which will be the foundation of the DAO. These include:
 
-- Assigning 5 authors to the SnapShot.org BlocksWorkz.xyz space so that proposals can be voted on
+- Assigning 5 authors to the SnapShot.org BlocksWorkz.xyz space so that proposals can be voted on. The wallets that hold the most BLKZ will have the option of becoming an author, if the wallet owner decides not to become an author the option will move to the next wallet in decending order.
 - Publishing the XDCNFT and XDCSwaps source code to public repo. Terms of use will include that ANY projects cloning or using this source code must allow the BLKZ token as a medium of exchange OR pay the BLKZ treasury account a licence fee of 10,000,000 BLKZ
 - Transition the domain ownership and records to the community control
 - Transition the hosting to community control
+
+## More Information
+
+### How To Contribute
+https://github.com/blocksworkz/dao/blob/main/How%20To%20Contribute.md
+
+### Why BlocksWorkz became a DAO
+https://github.com/blocksworkz/dao/blob/main/Why%20BlockWorkz%20became%20a%20DAO.md
+
+### Resources
+https://github.com/blocksworkz/dao/blob/main/Resources.md
+
+
