@@ -38,7 +38,7 @@ To create a request for a new listing a new proposal should be created and voted
 The existing social media accounts will be moved to the authors for access and security. It will be at the decision of the authors to decide who and how the social media activities are managed.
 
 ### Will the original team be involved?
-The existing team will be part of the community and continue to contribute to the project. During the transition period of 6 weeks* the team will be involved full-time until fully transitioned.
+The existing team will be part of the community and continue to contribute to the project. During the transition period of 6 weeks* the team will be involved full-time until fully transitioned. After the 6 weeks the original team will be community members and vote on activities as with all other members.
 
 The development team will contribute to the BlocksWorkz Community Development Team who will be responsible for developing and maintaining the products.
 
@@ -54,7 +54,7 @@ Creating another new token requires time, effort and introduces opportunities fo
 
 
 ### What happens with the existing hosting and domains?
-The original team will continue to manage/host the products for a transitional period of 6 weeks* after which the hosting will be ownership of the domains will be transferred to the community. 
+The original team will continue to manage/host the products for a transitional period of 6 weeks* after which the hosting and ownership of the domains will be transferred to the community. 
 
 The authors will create proposals where deemed appropriate for decisions by the community and also be responsible for the transition of specific transfers such as domain ownership, DNS and hosting details.
 
@@ -64,4 +64,4 @@ Access to any wallets used in the products and their associated private keys wil
 ____
 
 
- *Transitional period of 6 weeks will start from the date outlined - TBC.
+ *Transitional period of 6 weeks will start from the date outlined - 29/08/2022.
