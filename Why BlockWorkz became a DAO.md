@@ -52,14 +52,16 @@ Any commissions received by the XDCNFT and XDCSwaps products will be sent to thi
 ### Why is the BLKZ token used for voting and why wasn't a new token created?
 Creating another new token requires time, effort and introduces opportunities for error. By using the existing token makes it accessible for existing token holders to contribute.
 
-
 ### What happens with the existing hosting and domains?
 The original team will continue to manage/host the products for a transitional period of 6 weeks* after which the hosting and ownership of the domains will be transferred to the community. 
 
 The authors will create proposals where deemed appropriate for decisions by the community and also be responsible for the transition of specific transfers such as domain ownership, DNS and hosting details.
 
 ### What happens with existing wallets/private keys?
-Access to any wallets used in the products and their associated private keys will be transitioned to the authors.
+Access to any wallets used in the products and their associated private keys will be transitioned to the authors
+
+### If our BLKZ is locked up in staking are we able to use it to vote on the dao without unstaking?
+Voting can only be performed with BLKZ that is in the wallet connected to the voting platform - https://snapshot.org/#/blocksworkz.xyz
 
 ____
 
